@@ -1,3 +1,0 @@
-ini isi file kedua 
-
-Mengubah isi dari file second file.txt
